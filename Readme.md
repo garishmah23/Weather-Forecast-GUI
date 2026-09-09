@@ -115,12 +115,14 @@ Wind Speed: 3.5 m/s
 
 ### Main GUI
 
-c:\Users\hp\OneDrive\Pictures\Desktop\weather.png
+<img width="1215" height="567" alt="weather" src="https://github.com/user-attachments/assets/7fb62d74-8032-429d-a7eb-3ea1bfd6638b" />
+
 
 
 ### Weather Result
 
-c:\Users\hp\OneDrive\Pictures\Desktop\weather2.png
+<img width="316" height="237" alt="weather2" src="https://github.com/user-attachments/assets/0a9bdb51-f954-4eb3-8620-fab71ca8b8ed" />
+
 
 ---
 
