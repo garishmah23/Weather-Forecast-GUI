@@ -1,0 +1,5 @@
+City: Delhi,IN
+Temperature: 29.96°C
+Humidity: 66%
+Weather: clear sky
+Wind Speed: 5.14m/s
