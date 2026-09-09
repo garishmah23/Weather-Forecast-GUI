@@ -33,7 +33,7 @@ weather-app/
 │
 ├── main.py
 ├── README.md
-└── requirements.txt
+└── weather_report.txt
 ```
 
 ---
